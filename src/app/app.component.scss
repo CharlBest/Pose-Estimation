@@ -1,0 +1,14 @@
+canvas {
+  width: 50%;
+  height: 500px;
+  touch-action: none;
+  vertical-align: bottom;
+}
+
+video {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  width: 50%;
+}
